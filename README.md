@@ -18,3 +18,8 @@ using IBM cloud lite and watsonx ai to create a research agent that can autonomo
 - **Python** 
 - **Cloud Object Storage** for uploading PDFs or datasets  
 - **Vector Indexing** for semantic search (Watsonx.ai)
+  
+## Files Attached
+
+- capstone project powerpoint presention file
+- Research AI agent built from IBM cloud and exported as ipynb file
